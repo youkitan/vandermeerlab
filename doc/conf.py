@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/bin/env python
 # -*- coding: utf-8 -*-
 #
 # vandermeerlab-codebase documentation build configuration file, created by
@@ -49,7 +49,7 @@ templates_path = ['_templates']
 # You can specify multiple suffix as a list of string:
 #
 # source_suffix = ['.rst', '.md']
-source_suffix = '.md'
+source_suffix = ['.rst','.md']
 
 # The master toctree document.
 master_doc = 'index'
@@ -86,6 +86,8 @@ pygments_style = 'sphinx'
 # If true, `todo` and `todoList` produce output, else they produce nothing.
 todo_include_todos = True
 
+primary_domain = 'mat'
+matlab_src_dir = '~/Documents/Github/vandermeerlab-fork/code-base/'
 
 # -- Options for HTML output ----------------------------------------------
 
@@ -161,9 +163,6 @@ texinfo_documents = [
      author, 'vandermeerlab-codebase', 'One line description of project.',
      'Miscellaneous'),
 ]
-
-
-
 
 # Example configuration for intersphinx: refer to the Python standard library.
 intersphinx_mapping = {'https://docs.python.org/': None}
