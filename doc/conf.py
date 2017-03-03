@@ -42,6 +42,9 @@ extensions = ['sphinx.ext.autodoc',
     'sphinx.ext.githubpages',
     'sphinxcontrib.matlab']
 
+primary_domain = 'mat'
+matlab_src_dir = os.path.abspath('..')
+
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
 
@@ -85,9 +88,6 @@ pygments_style = 'sphinx'
 
 # If true, `todo` and `todoList` produce output, else they produce nothing.
 todo_include_todos = True
-
-primary_domain = 'mat'
-matlab_src_dir = '~/Documents/Github/vandermeerlab-fork/code-base/'
 
 # -- Options for HTML output ----------------------------------------------
 
