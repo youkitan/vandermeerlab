@@ -1,10 +1,14 @@
+NLTools
+=======
 .. vandermeerlab-codebase documentation master file, created by
    sphinx-quickstart on Fri Mar  3 14:47:39 2017.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to vandermeerlab-codebase's documentation!
-==================================================
+.. image:: https://readthedocs.org/projects/vandermeerlab-fork/badge/?version=latest
+    :target: http://vandermeerlab-fork.readthedocs.io/en/latest/?badge=latest
+
+`vandermeerlab codebase <https://github.com/vandermeerlab/vandermeerlab>`
 
 .. toctree::
    :maxdepth: 2

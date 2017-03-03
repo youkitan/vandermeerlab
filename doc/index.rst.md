@@ -1,4 +1,4 @@
-NLTools
+vandermeerlab codebase
 =======
 .. vandermeerlab-codebase documentation master file, created by
    sphinx-quickstart on Fri Mar  3 14:47:39 2017.
@@ -8,7 +8,7 @@ NLTools
 .. image:: https://readthedocs.org/projects/vandermeerlab-fork/badge/?version=latest
     :target: http://vandermeerlab-fork.readthedocs.io/en/latest/?badge=latest
 
-`vandermeerlab codebase <https://github.com/vandermeerlab/vandermeerlab>`
+`vandermeerlab codebase <https://github.com/vandermeerlab/vandermeerlab>`_
 
 .. toctree::
    :maxdepth: 2
