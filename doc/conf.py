@@ -43,7 +43,7 @@ extensions = ['sphinx.ext.autodoc',
     'sphinxcontrib.matlab']
 
 primary_domain = 'mat'
-matlab_src_dir = os.path.abspath('..')
+matlab_src_dir = '~/Documents/Github/vandermeerlab-fork/'
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
