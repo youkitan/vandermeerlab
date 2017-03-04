@@ -27,7 +27,7 @@ For an indepth guide see `our wiki <http://ctnsrv.uwaterloo.ca/vandermeerlab/dok
    :maxdepth: 1
 
    getting_started
-   core_datatypes
+   datatypes
    
 
 Indices and tables
