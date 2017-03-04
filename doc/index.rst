@@ -14,10 +14,9 @@ vandermeerlab codebase
    :maxdepth: 2
    :caption: Contents:
 
-LoadPos
+Datatypes
 ========
-.. automodule:: LoadPos
-:mod:`LoadPos` is a really cool function.
+.. automodule:: /shared/datatypes
 
 Indices and tables
 ==================
