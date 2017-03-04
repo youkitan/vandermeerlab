@@ -13,9 +13,7 @@ The `vandermeerlab codebase <https://github.com/vandermeerlab/vandermeerlab>`_ i
 
 Installation
 -------------
-If you already have a running MATLAB installation (2014b+) then you can fork our repo using
-
-.. code-block:: python
+If you already have a running MATLAB installation (2014b+) then you can fork our repo using::
 	git clone https://github.com/vandermeerlab/vandermeerlab
 	
 Tutorials
@@ -24,7 +22,7 @@ For an indepth guide see `our wiki <http://ctnsrv.uwaterloo.ca/vandermeerlab/dok
 
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
 
    getting_started
    datatypes
