@@ -13,7 +13,10 @@ The `vandermeerlab codebase <https://github.com/vandermeerlab/vandermeerlab>`_ i
 
 Installation
 -------------
-If you already have a running MATLAB installation (2014b+) then you can fork our repo using::
+If you already have a running MATLAB installation (2014b+) then you can fork our repo using
+
+.. code-block:: python
+
 	git clone https://github.com/vandermeerlab/vandermeerlab
 	
 Tutorials
