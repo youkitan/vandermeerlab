@@ -1,1 +1,2 @@
-some stuf
+Getting Started
+***************
