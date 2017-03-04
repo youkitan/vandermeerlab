@@ -17,7 +17,9 @@ vandermeerlab codebase
 Datatypes
 ========
 .. automodule:: /shared/datatypes
-:mod:`/shared/datatypes`
+	:mod:`/shared/datatypes`
+	:show-inheritance:
+	:members:
 
 Indices and tables
 ==================
